@@ -1,3 +1,9 @@
+lshw (02.19.git.2021.06.19.996aaad9c7-2deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Fri, 20 Sep 2024 12:12:41 +0800
+
 lshw (02.19.git.2021.06.19.996aaad9c7-2) unstable; urgency=medium
 
   * ACK 02.18.85-0.6 and 02.18.85-0.7 upload and apply the changes that were
